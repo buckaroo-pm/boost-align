@@ -1,0 +1,19 @@
+cxx_binary(
+  name = 'align',
+  srcs = [
+    'align_test.cpp',
+  ],
+  deps = [
+    '//:align',
+  ],
+)
+
+cxx_binary(
+  name = 'align-down',
+  srcs = [
+    'align_down_test.cpp',
+  ],
+  deps = [
+    '//:align',
+  ],
+)
