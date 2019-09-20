@@ -22,4 +22,4 @@ revision = "edb8562f816250216903f89ec4d9ac0961a922a1"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "1.56.0" ]
-revision = "697d9dbf2a76b06f3052d968ab1e7f620b82d52e"
+revision = "2d090dbd247494fc7d2d16101e42fd11da3b0fef"
